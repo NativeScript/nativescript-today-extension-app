@@ -2,10 +2,10 @@
   "nativescript": {
     "id": "org.nativescript.nativescriptTodayExtensionApp",
     "tns-android": {
-      "version": "6.5.0"
+      "version": "6.0.0"
     },
     "tns-ios": {
-      "version": "6.5.0"
+      "version": "6.0.1"
     }
   },
   "main": "app.js",
@@ -14,10 +14,10 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "nativescript-theme-core": "~1.0.4",
-    "tns-core-modules": "~6.5.0"
+    "tns-core-modules": "6.0.1"
   },
   "devDependencies": {
-    "nativescript-dev-webpack": "~1.5.1",
+    "nativescript-dev-webpack": "1.0.1",
     "typescript": "3.4.5"
   },
   "gitHead": "6ccaee804c71761be1c2f91d0b2dd67c8ba6d2b6",
